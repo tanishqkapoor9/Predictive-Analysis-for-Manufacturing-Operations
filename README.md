@@ -1,6 +1,6 @@
 # Predictive Analysis API
 
-## Setup##
+## Setup
 ```bash
 pip install -r requirements.txt
 python app.py
